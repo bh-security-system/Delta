@@ -1,7 +1,7 @@
 {
   "address": [
     {
-      "post": "https://drlta.deltamarket3.ir/VPN//postN.php",
+      "post": "https://drlta.deltamarket3.ir/VPN/postN.php",
       "get": "https://drlta.deltamarket3.ir/VPN/getN.php",
       "server": "https://drlta.deltamarket3.ir/VPN/server_none.png",
       "user": "https://drlta.deltamarket3.ir/VPN/user_ban.png"
